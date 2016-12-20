@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: d06101c0808c946849e29d2f29c48279
+timeCreated: 1479700612
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group01
+    100004: Group02
+    100006: Group03
+    100008: lBigToe1
+    100010: lBigToe2
+    100012: Left Foot
+    100014: Left Hand
+    100016: Left Shin
+    100018: Left Thigh
+    100020: LeftFore~4
+    100022: lIndex1
+    100024: lIndex2
+    100026: lIndex3
+    100028: lIndexToe1
+    100030: lIndexToe2
+    100032: lMid1
+    100034: lMid2
+    100036: lMid3
+    100038: lMidToe1
+    100040: lMidToe2
+    100042: lPinky1
+    100044: lPinky2
+    100046: lPinky3
+    100048: lPinkyToe1
+    100050: lPinkyToe2
+    100052: lRing1
+    100054: lRing2
+    100056: lRing3
+    100058: lRingToe1
+    100060: lRingToe2
+    100062: lThumb1
+    100064: lThumb2
+    100066: lThumb3
+    100068: lToe
+    100070: rBigToe1
+    100072: rBigToe2
+    100074: Right Foot
+    100076: Right Hand
+    100078: Right Shin
+    100080: RightFor~2
+    100082: RightThigh
+    100084: rIndex1
+    100086: rIndex2
+    100088: rIndex3
+    100090: rIndexToe1
+    100092: rIndexToe2
+    100094: rMid1
+    100096: rMid2
+    100098: rMid3
+    100100: rMidToe1
+    100102: rMidToe2
+    100104: rPinky1
+    100106: rPinky2
+    100108: rPinky3
+    100110: rPinkyToe1
+    100112: rPinkyToe2
+    100114: rRing1
+    100116: rRing2
+    100118: rRing3
+    100120: rRingToe1
+    100122: rRingToe2
+    100124: rThumb1
+    100126: rThumb2
+    100128: rThumb3
+    100130: rToe
+    400000: //RootNode
+    400002: Group01
+    400004: Group02
+    400006: Group03
+    400008: lBigToe1
+    400010: lBigToe2
+    400012: Left Foot
+    400014: Left Hand
+    400016: Left Shin
+    400018: Left Thigh
+    400020: LeftFore~4
+    400022: lIndex1
+    400024: lIndex2
+    400026: lIndex3
+    400028: lIndexToe1
+    400030: lIndexToe2
+    400032: lMid1
+    400034: lMid2
+    400036: lMid3
+    400038: lMidToe1
+    400040: lMidToe2
+    400042: lPinky1
+    400044: lPinky2
+    400046: lPinky3
+    400048: lPinkyToe1
+    400050: lPinkyToe2
+    400052: lRing1
+    400054: lRing2
+    400056: lRing3
+    400058: lRingToe1
+    400060: lRingToe2
+    400062: lThumb1
+    400064: lThumb2
+    400066: lThumb3
+    400068: lToe
+    400070: rBigToe1
+    400072: rBigToe2
+    400074: Right Foot
+    400076: Right Hand
+    400078: Right Shin
+    400080: RightFor~2
+    400082: RightThigh
+    400084: rIndex1
+    400086: rIndex2
+    400088: rIndex3
+    400090: rIndexToe1
+    400092: rIndexToe2
+    400094: rMid1
+    400096: rMid2
+    400098: rMid3
+    400100: rMidToe1
+    400102: rMidToe2
+    400104: rPinky1
+    400106: rPinky2
+    400108: rPinky3
+    400110: rPinkyToe1
+    400112: rPinkyToe2
+    400114: rRing1
+    400116: rRing2
+    400118: rRing3
+    400120: rRingToe1
+    400122: rRingToe2
+    400124: rThumb1
+    400126: rThumb2
+    400128: rThumb3
+    400130: rToe
+    2300000: lBigToe1
+    2300002: lBigToe2
+    2300004: Left Foot
+    2300006: Left Hand
+    2300008: Left Shin
+    2300010: Left Thigh
+    2300012: LeftFore~4
+    2300014: lIndex1
+    2300016: lIndex2
+    2300018: lIndex3
+    2300020: lIndexToe1
+    2300022: lIndexToe2
+    2300024: lMid1
+    2300026: lMid2
+    2300028: lMid3
+    2300030: lMidToe1
+    2300032: lMidToe2
+    2300034: lPinky1
+    2300036: lPinky2
+    2300038: lPinky3
+    2300040: lPinkyToe1
+    2300042: lPinkyToe2
+    2300044: lRing1
+    2300046: lRing2
+    2300048: lRing3
+    2300050: lRingToe1
+    2300052: lRingToe2
+    2300054: lThumb1
+    2300056: lThumb2
+    2300058: lThumb3
+    2300060: lToe
+    2300062: rBigToe1
+    2300064: rBigToe2
+    2300066: Right Foot
+    2300068: Right Hand
+    2300070: Right Shin
+    2300072: RightFor~2
+    2300074: RightThigh
+    2300076: rIndex1
+    2300078: rIndex2
+    2300080: rIndex3
+    2300082: rIndexToe1
+    2300084: rIndexToe2
+    2300086: rMid1
+    2300088: rMid2
+    2300090: rMid3
+    2300092: rMidToe1
+    2300094: rMidToe2
+    2300096: rPinky1
+    2300098: rPinky2
+    2300100: rPinky3
+    2300102: rPinkyToe1
+    2300104: rPinkyToe2
+    2300106: rRing1
+    2300108: rRing2
+    2300110: rRing3
+    2300112: rRingToe1
+    2300114: rRingToe2
+    2300116: rThumb1
+    2300118: rThumb2
+    2300120: rThumb3
+    2300122: rToe
+    3300000: lBigToe1
+    3300002: lBigToe2
+    3300004: Left Foot
+    3300006: Left Hand
+    3300008: Left Shin
+    3300010: Left Thigh
+    3300012: LeftFore~4
+    3300014: lIndex1
+    3300016: lIndex2
+    3300018: lIndex3
+    3300020: lIndexToe1
+    3300022: lIndexToe2
+    3300024: lMid1
+    3300026: lMid2
+    3300028: lMid3
+    3300030: lMidToe1
+    3300032: lMidToe2
+    3300034: lPinky1
+    3300036: lPinky2
+    3300038: lPinky3
+    3300040: lPinkyToe1
+    3300042: lPinkyToe2
+    3300044: lRing1
+    3300046: lRing2
+    3300048: lRing3
+    3300050: lRingToe1
+    3300052: lRingToe2
+    3300054: lThumb1
+    3300056: lThumb2
+    3300058: lThumb3
+    3300060: lToe
+    3300062: rBigToe1
+    3300064: rBigToe2
+    3300066: Right Foot
+    3300068: Right Hand
+    3300070: Right Shin
+    3300072: RightFor~2
+    3300074: RightThigh
+    3300076: rIndex1
+    3300078: rIndex2
+    3300080: rIndex3
+    3300082: rIndexToe1
+    3300084: rIndexToe2
+    3300086: rMid1
+    3300088: rMid2
+    3300090: rMid3
+    3300092: rMidToe1
+    3300094: rMidToe2
+    3300096: rPinky1
+    3300098: rPinky2
+    3300100: rPinky3
+    3300102: rPinkyToe1
+    3300104: rPinkyToe2
+    3300106: rRing1
+    3300108: rRing2
+    3300110: rRing3
+    3300112: rRingToe1
+    3300114: rRingToe2
+    3300116: rThumb1
+    3300118: rThumb2
+    3300120: rThumb3
+    3300122: rToe
+    4300000: lPinkyToe2
+    4300002: lPinkyToe1
+    4300004: lRingToe2
+    4300006: lRingToe1
+    4300008: lMidToe2
+    4300010: lMidToe1
+    4300012: lIndexToe2
+    4300014: lIndexToe1
+    4300016: lBigToe2
+    4300018: lBigToe1
+    4300020: lToe
+    4300022: Left Foot
+    4300024: Left Shin
+    4300026: Left Thigh
+    4300028: rPinkyToe2
+    4300030: rPinkyToe1
+    4300032: rRingToe2
+    4300034: rRingToe1
+    4300036: rMidToe2
+    4300038: rMidToe1
+    4300040: rIndexToe2
+    4300042: rIndexToe1
+    4300044: rBigToe2
+    4300046: rBigToe1
+    4300048: rToe
+    4300050: Right Foot
+    4300052: Right Shin
+    4300054: RightThigh
+    4300056: rThumb3
+    4300058: rPinky3
+    4300060: rPinky2
+    4300062: rPinky1
+    4300064: Right Hand
+    4300066: rRing2
+    4300068: rRing1
+    4300070: rMid1
+    4300072: rMid2
+    4300074: rIndex3
+    4300076: rIndex2
+    4300078: rIndex1
+    4300080: rThumb2
+    4300082: rThumb1
+    4300084: rRing3
+    4300086: RightFor~2
+    4300088: rMid3
+    4300090: lPinky3
+    4300092: lPinky2
+    4300094: lPinky1
+    4300096: lRing3
+    4300098: lRing2
+    4300100: lRing1
+    4300102: lMid3
+    4300104: lMid2
+    4300106: lMid1
+    4300108: lIndex3
+    4300110: lIndex2
+    4300112: lIndex1
+    4300114: lThumb3
+    4300116: lThumb2
+    4300118: lThumb1
+    4300120: Left Hand
+    4300122: LeftFore~4
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
